@@ -9,9 +9,8 @@ How to run
 
 ```sh
 gradle build
-<<<<<<< HEAD
 gradle run
-gradle bootrun
+
 
 
 
