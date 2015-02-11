@@ -10,7 +10,7 @@ import HelloWebApplication._
  * This object bootstraps Spring Boot web application.
  * Via Gradle: gradle bootRun
  *
- * @author saung
+ * @author jawahar santosh
  * @since 1.0
  */
 object HelloWebApplication {
