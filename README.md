@@ -9,7 +9,7 @@ How to run
 
 ```sh
 gradle build
-gradle bootRun
+gradle run
 ```
 
 

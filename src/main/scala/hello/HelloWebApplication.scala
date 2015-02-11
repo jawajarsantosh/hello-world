@@ -24,7 +24,7 @@ object HelloWebApplication {
 @EnableAutoConfiguration
 class HelloConfig
 {
-@RequestMapping(Array("/"))
+@RequestMapping(value=Array("/"), method=Array(RequestMethod.GET))
 @ResponseBody
 def home():String="Hello World!"
 }
